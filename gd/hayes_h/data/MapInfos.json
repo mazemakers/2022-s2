@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"expanded":true,"name":"","order":1,"parentId":0,"scrollX":0,"scrollY":0},
+{"id":2,"expanded":true,"name":"MAP002","order":2,"parentId":1,"scrollX":0,"scrollY":0},
+{"id":3,"expanded":true,"name":"wrong island","order":3,"parentId":2,"scrollX":0,"scrollY":0},
+{"id":4,"expanded":true,"name":"MAP004","order":4,"parentId":3,"scrollX":0,"scrollY":0},
+{"id":5,"expanded":true,"name":"MAP005","order":5,"parentId":4,"scrollX":0,"scrollY":0},
+{"id":6,"expanded":true,"name":"MAP006","order":6,"parentId":5,"scrollX":0,"scrollY":0},
+{"id":7,"expanded":true,"name":"MAP007","order":7,"parentId":6,"scrollX":0,"scrollY":0},
+{"id":8,"expanded":true,"name":"do not delete","order":8,"parentId":7,"scrollX":0,"scrollY":0},
+{"id":9,"expanded":true,"name":"","order":9,"parentId":8,"scrollX":0,"scrollY":0},
+{"id":10,"expanded":true,"name":"MAP010","order":10,"parentId":9,"scrollX":0,"scrollY":0}
+]

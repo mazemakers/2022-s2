@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"Durian","characterIndex":0,"characterName":"Durian","classId":8,"equips":[44,0,0,5,0],"faceIndex":0,"faceName":"Durian","traits":[],"initialLevel":1,"maxLevel":99,"name":"Durian","nickname":"Dury","note":"","profile":""},
+{"id":2,"battlerName":"Actor1_4","characterIndex":3,"characterName":"Actor1","classId":5,"equips":[33,0,0,5,0],"faceIndex":3,"faceName":"Actor1","traits":[],"initialLevel":3,"maxLevel":99,"name":"Michelle","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Accella","characterIndex":0,"characterName":"Accella","classId":1,"equips":[2,0,0,5,0],"faceIndex":0,"faceName":"Accella","traits":[],"initialLevel":3,"maxLevel":99,"name":"Accella","nickname":"Cel","note":"","profile":""},
+{"id":4,"battlerName":"Actor1_3","characterIndex":2,"characterName":"Actor1","classId":7,"equips":[38,0,65,5,0],"faceIndex":2,"faceName":"Actor1","traits":[],"initialLevel":3,"maxLevel":99,"name":"Gale","nickname":"","note":"","profile":""}
+]

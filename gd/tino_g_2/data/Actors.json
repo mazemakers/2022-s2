@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"battlerName":"gru 3","characterIndex":0,"characterName":"gru 1","classId":7,"equips":[41,0,46,3,99],"faceIndex":0,"faceName":"gru","traits":[],"initialLevel":1,"maxLevel":99,"name":"gru","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"m 4","characterIndex":0,"characterName":"m 2","classId":6,"equips":[1,0,0,9,0],"faceIndex":0,"faceName":"m 1","traits":[],"initialLevel":1,"maxLevel":99,"name":"m","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"m 4","characterIndex":0,"characterName":"m 2","classId":6,"equips":[31,0,65,5,0],"faceIndex":0,"faceName":"m 1","traits":[],"initialLevel":1,"maxLevel":99,"name":"m","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"m 4","characterIndex":0,"characterName":"m 2","classId":6,"equips":[5,31,57,4,0],"faceIndex":0,"faceName":"m 1","traits":[],"initialLevel":1,"maxLevel":99,"name":"m","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"m 4","characterIndex":0,"characterName":"m 2","classId":6,"equips":[7,0,0,20,0],"faceIndex":0,"faceName":"m 1","traits":[],"initialLevel":1,"maxLevel":99,"name":"m","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"m 4","characterIndex":0,"characterName":"m 2","classId":6,"equips":[7,0,65,21,0],"faceIndex":0,"faceName":"m 1","traits":[],"initialLevel":1,"maxLevel":99,"name":"m","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"m 4","characterIndex":0,"characterName":"m 2","classId":6,"equips":[7,0,0,20,0],"faceIndex":0,"faceName":"m 1","traits":[],"initialLevel":1,"maxLevel":99,"name":"m","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"m 4","characterIndex":0,"characterName":"m 2","classId":6,"equips":[7,0,0,20,0],"faceIndex":0,"faceName":"m 1","traits":[],"initialLevel":1,"maxLevel":99,"name":"m","nickname":"","note":"","profile":""}
+]

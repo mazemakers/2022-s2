@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"Actor2_5","characterIndex":0,"characterName":"Evil","classId":1,"equips":[47,31,57,13,97],"faceIndex":0,"faceName":"Evil","traits":[],"initialLevel":20,"maxLevel":99,"name":"Zoro","nickname":"","note":"","profile":"Zoro is the best sword man of the land of the one piece"},
+{"id":2,"battlerName":"SF_Actor2_7","characterIndex":6,"characterName":"Evil","classId":5,"equips":[0,0,0,0,0],"faceIndex":6,"faceName":"Evil","traits":[],"initialLevel":20,"maxLevel":99,"name":"Luffy","nickname":"","note":"","profile":""}
+]

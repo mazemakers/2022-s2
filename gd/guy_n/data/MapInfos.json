@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":940,"scrollY":658},
+{"id":2,"expanded":false,"name":"MAP001w/bombshadows","order":2,"parentId":0,"scrollX":832,"scrollY":1204},
+{"id":3,"expanded":false,"name":"Poor Person Building","order":3,"parentId":0,"scrollX":571,"scrollY":316},
+{"id":4,"expanded":false,"name":"dungeon","order":4,"parentId":0,"scrollX":571,"scrollY":344},
+{"id":5,"expanded":false,"name":"Wooden House","order":5,"parentId":0,"scrollX":507.55555555555554,"scrollY":305.77777777777777},
+{"id":6,"expanded":false,"name":"Bar yay alcohol","order":6,"parentId":0,"scrollX":571,"scrollY":316}
+]

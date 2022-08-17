@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"battlerName":"main Bad","characterIndex":0,"characterName":"Main BAD","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Main BAD","traits":[],"initialLevel":1,"maxLevel":99,"name":"EEE","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"main Bad","characterIndex":0,"characterName":"Main BAD","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Main BAD","traits":[],"initialLevel":1,"maxLevel":99,"name":"L","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Main ggg","characterIndex":0,"characterName":"MAIn GOOD","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Main GOOD","traits":[],"initialLevel":1,"maxLevel":99,"name":"W","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]

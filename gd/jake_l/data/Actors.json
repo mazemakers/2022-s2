@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"battlerName":"Actor3_7","characterIndex":6,"characterName":"Actor3","classId":6,"equips":[5,31,57,13,99],"faceIndex":6,"faceName":"Actor3","traits":[{"code":43,"dataId":14,"value":1},{"code":43,"dataId":21,"value":1}],"initialLevel":1,"maxLevel":99,"name":"reid","nickname":"jake","note":"","profile":""},
+{"id":2,"battlerName":"Actor3_5","characterIndex":4,"characterName":"Actor3","classId":6,"equips":[29,0,0,0,0],"faceIndex":4,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"nerd","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":6,"equips":[2,0,0,0,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Mr.R","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Actor1_7","characterIndex":6,"characterName":"Actor1","classId":6,"equips":[0,0,0,0,0],"faceIndex":6,"faceName":"Actor1","traits":[{"code":43,"dataId":39,"value":1},{"code":43,"dataId":218,"value":1}],"initialLevel":1,"maxLevel":99,"name":"porson","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"Actor1_6","characterIndex":5,"characterName":"Actor1","classId":6,"equips":[0,0,0,0,0],"faceIndex":5,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"wich","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"Actor1_3","characterIndex":2,"characterName":"Actor1","classId":6,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"Actor1","traits":[{"code":43,"dataId":54,"value":1},{"code":43,"dataId":39,"value":1}],"initialLevel":1,"maxLevel":99,"name":"quat","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"Actor1_8","characterIndex":7,"characterName":"Actor1","classId":6,"equips":[0,0,0,0,0],"faceIndex":7,"faceName":"Actor1","traits":[{"code":43,"dataId":62,"value":1}],"initialLevel":1,"maxLevel":99,"name":"floo","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"Actor1_5","characterIndex":4,"characterName":"Actor1","classId":6,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"son","nickname":"1234567890","note":"","profile":""}
+]
